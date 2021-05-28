@@ -1,0 +1,1 @@
+# Highlight trailing whitespace
